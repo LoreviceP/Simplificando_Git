@@ -1,3 +1,7 @@
+# Simplificando Git :clipboard:
+
+Por ter encontrado dificuldades em compreender a rotina principal do Git resolvi adicionar um passo a passo que me auxiliou no entendimento da utilização do Git.
+
 # Download do Git
 
 [Git - Downloads (git-scm.com)](https://git-scm.com/downloads)
